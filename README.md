@@ -1,6 +1,6 @@
 # piper-voice-models
 
-Voice models for [Piper TTS](https://github.com/rhasspy/piper) trained using [TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy).  Most voice samples are generated using [F5-TTS](https://github.com/SWivid/F5-TTS).
+Voice models for [Piper TTS](https://github.com/rhasspy/piper) trained using [TextyMcSpeechy](https://github.com/domesticatedviking/TextyMcSpeechy).  Most training datasets are generated using [F5-TTS](https://github.com/SWivid/F5-TTS).
 
 # Models
 
