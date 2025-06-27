@@ -15,3 +15,9 @@ Voice models for [Piper TTS](https://github.com/rhasspy/piper) trained using [Te
 [Sample](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/simoniz0r/piper-voice-models/refs/heads/main/samples/eminem.ogg)
 
 [Download](https://github.com/simoniz0r/piper-voice-models/releases/tag/eminem)
+
+## Patrick
+
+[Sample](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/simoniz0r/piper-voice-models/refs/heads/main/samples/patrick.ogg)
+
+[Download](https://github.com/simoniz0r/piper-voice-models/releases/tag/patrick)
