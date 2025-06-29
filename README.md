@@ -10,6 +10,12 @@ Voice models for [Piper TTS](https://github.com/rhasspy/piper) trained using [Te
 
 [Download](https://github.com/simoniz0r/piper-voice-models/releases/tag/bobby)
 
+## Carl
+
+[Sample](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/simoniz0r/piper-voice-models/refs/heads/main/samples/carl.ogg)
+
+[Download](https://github.com/simoniz0r/piper-voice-models/releases/tag/carl)
+
 ## Eminem
 
 [Sample](https://gabalpha.github.io/read-audio/?p=https://raw.githubusercontent.com/simoniz0r/piper-voice-models/refs/heads/main/samples/eminem.ogg)
